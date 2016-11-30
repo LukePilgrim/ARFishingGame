@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingGameDeluxe.CSharp.Plugins", "FishingGameDeluxe.CSharp.Plugins.csproj", "{3329D0E7-59C8-F7C3-7C36-33EDEC93B726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingGameDeluxe.CSharp", "FishingGameDeluxe.CSharp.csproj", "{2B1DF114-AB29-466A-B7F5-1B4F4D7230F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingGameDeluxe.CSharp.Editor", "FishingGameDeluxe.CSharp.Editor.csproj", "{57025F54-9F3F-39CF-0ADC-B89A45553741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3329D0E7-59C8-F7C3-7C36-33EDEC93B726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3329D0E7-59C8-F7C3-7C36-33EDEC93B726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3329D0E7-59C8-F7C3-7C36-33EDEC93B726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3329D0E7-59C8-F7C3-7C36-33EDEC93B726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1DF114-AB29-466A-B7F5-1B4F4D7230F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1DF114-AB29-466A-B7F5-1B4F4D7230F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1DF114-AB29-466A-B7F5-1B4F4D7230F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1DF114-AB29-466A-B7F5-1B4F4D7230F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57025F54-9F3F-39CF-0ADC-B89A45553741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57025F54-9F3F-39CF-0ADC-B89A45553741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57025F54-9F3F-39CF-0ADC-B89A45553741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57025F54-9F3F-39CF-0ADC-B89A45553741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

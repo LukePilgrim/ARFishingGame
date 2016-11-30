@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="FishingGameDeluxe.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Packages\PlayMaker Custom Actions\uGui\Layout\uGuiRadialLayoutSetProperties.cs">
+    <Files>
+      <File FileName="Assets\Plugins\Packages\PlayMaker Custom Actions\uGui\Layout\uGuiRadialLayoutSetProperties.cs" Line="46" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
