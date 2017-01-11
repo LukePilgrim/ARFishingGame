@@ -13,6 +13,8 @@ TagManager:
   - hiro
   - fish
   - trash
+  - wall
+  - shark
   layers:
   - Default
   - TransparentFX
